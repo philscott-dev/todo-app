@@ -1,0 +1,6 @@
+.next
+**/*.d.ts
+dist
+static
+public
+node_modules
